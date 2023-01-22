@@ -6,7 +6,7 @@ Publisher: Sergii N
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 
 
-Nazwa: Image preview
+Name: Image preview
 ID: kisstkondoros.vscode-gutter-preview
 Description: Shows image preview in the gutter and on hover
 Version: 0.30.0
@@ -14,7 +14,7 @@ Publisher: Kiss Tamás
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
 
-Nazwa: JavaScript (ES6) code snippets
+Name: JavaScript (ES6) code snippets
 ID: xabikos.JavaScriptSnippets
 Description: Code snippets for JavaScript in ES6 syntax
 Version: 1.8.0
@@ -22,7 +22,7 @@ Publisher: charalampos karypidis
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
 
 
-Nazwa: Live Sass Compiler
+Name: Live Sass Compiler
 ID: glenn2223.live-sass
 Description: Compile Sass or Scss to CSS at realtime.
 Version: 5.5.1
@@ -30,7 +30,7 @@ Publisher: Glenn Marks
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass
 
 
-Nazwa: Live Server
+Name: Live Server
 ID: ritwickdey.LiveServer
 Description: Launch a development local Server with live reload feature for static & dynamic pages
 Version: 5.7.9
@@ -38,7 +38,7 @@ Publisher: Ritwick Dey
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 
-Nazwa: Material Icon Theme
+Name: Material Icon Theme
 ID: PKief.material-icon-theme
 Description: Material Design Icons for Visual Studio Code
 Version: 4.23.1
@@ -46,7 +46,7 @@ Publisher: Philipp Kief
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 
-Nazwa: PHP Debug
+Name: PHP Debug
 ID: xdebug.php-debug
 Description: Debug support for PHP with Xdebug
 Version: 1.30.0
@@ -54,7 +54,7 @@ Publisher: Xdebug
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
 
 
-Nazwa: Polish Language Pack for Visual Studio Code
+Name: Polish Language Pack for Visual Studio Code
 ID: MS-CEINTL.vscode-language-pack-pl
 Description: Language pack extension for Polish
 Version: 1.74.12140928
@@ -62,7 +62,7 @@ Publisher: Microsoft
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl
 
 
-Nazwa: Prettier - Code formatter
+Name: Prettier - Code formatter
 ID: esbenp.prettier-vscode
 Description: Code formatter using prettier
 Version: 9.10.4
@@ -70,7 +70,7 @@ Publisher: Prettier
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
 
-Nazwa: Sass
+Name: Sass
 ID: syler.sass-indented
 Description: Indented Sass syntax Highlighting, Autocomplete & Formatter
 Version: 1.8.23
@@ -78,7 +78,7 @@ Publisher: Syler
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 
 
-Nazwa: Tokyo Night
+Name: Tokyo Night
 ID: enkia.tokyo-night
 Description: A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 Version: 0.9.4
