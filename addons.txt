@@ -1,87 +1,87 @@
-Nazwa: Color Highlight
-Identyfikator: naumovs.color-highlight
-Opis: Highlight web colors in your editor
-Wersja: 2.5.0
-Wydawca: Sergii N
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+Name: Color Highlight
+ID: naumovs.color-highlight
+Description: Highlight web colors in your editor
+Version: 2.5.0
+Publisher: Sergii N
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
 
 
 Nazwa: Image preview
-Identyfikator: kisstkondoros.vscode-gutter-preview
-Opis: Shows image preview in the gutter and on hover
-Wersja: 0.30.0
-Wydawca: Kiss Tamás
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
+ID: kisstkondoros.vscode-gutter-preview
+Description: Shows image preview in the gutter and on hover
+Version: 0.30.0
+Publisher: Kiss Tamás
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
 
 Nazwa: JavaScript (ES6) code snippets
-Identyfikator: xabikos.JavaScriptSnippets
-Opis: Code snippets for JavaScript in ES6 syntax
-Wersja: 1.8.0
-Wydawca: charalampos karypidis
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+ID: xabikos.JavaScriptSnippets
+Description: Code snippets for JavaScript in ES6 syntax
+Version: 1.8.0
+Publisher: charalampos karypidis
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
 
 
 Nazwa: Live Sass Compiler
-Identyfikator: glenn2223.live-sass
-Opis: Compile Sass or Scss to CSS at realtime.
-Wersja: 5.5.1
-Wydawca: Glenn Marks
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass
+ID: glenn2223.live-sass
+Description: Compile Sass or Scss to CSS at realtime.
+Version: 5.5.1
+Publisher: Glenn Marks
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass
 
 
 Nazwa: Live Server
-Identyfikator: ritwickdey.LiveServer
-Opis: Launch a development local Server with live reload feature for static & dynamic pages
-Wersja: 5.7.9
-Wydawca: Ritwick Dey
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+ID: ritwickdey.LiveServer
+Description: Launch a development local Server with live reload feature for static & dynamic pages
+Version: 5.7.9
+Publisher: Ritwick Dey
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 
 Nazwa: Material Icon Theme
-Identyfikator: PKief.material-icon-theme
-Opis: Material Design Icons for Visual Studio Code
-Wersja: 4.23.1
-Wydawca: Philipp Kief
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+ID: PKief.material-icon-theme
+Description: Material Design Icons for Visual Studio Code
+Version: 4.23.1
+Publisher: Philipp Kief
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 
 Nazwa: PHP Debug
-Identyfikator: xdebug.php-debug
-Opis: Debug support for PHP with Xdebug
-Wersja: 1.30.0
-Wydawca: Xdebug
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
+ID: xdebug.php-debug
+Description: Debug support for PHP with Xdebug
+Version: 1.30.0
+Publisher: Xdebug
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
 
 
 Nazwa: Polish Language Pack for Visual Studio Code
-Identyfikator: MS-CEINTL.vscode-language-pack-pl
-Opis: Language pack extension for Polish
-Wersja: 1.74.12140928
-Wydawca: Microsoft
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl
+ID: MS-CEINTL.vscode-language-pack-pl
+Description: Language pack extension for Polish
+Version: 1.74.12140928
+Publisher: Microsoft
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pl
 
 
 Nazwa: Prettier - Code formatter
-Identyfikator: esbenp.prettier-vscode
-Opis: Code formatter using prettier
-Wersja: 9.10.4
-Wydawca: Prettier
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+ID: esbenp.prettier-vscode
+Description: Code formatter using prettier
+Version: 9.10.4
+Publisher: Prettier
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
 
 Nazwa: Sass
-Identyfikator: syler.sass-indented
-Opis: Indented Sass syntax Highlighting, Autocomplete & Formatter
-Wersja: 1.8.23
-Wydawca: Syler
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
+ID: syler.sass-indented
+Description: Indented Sass syntax Highlighting, Autocomplete & Formatter
+Version: 1.8.23
+Publisher: Syler
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented
 
 
 Nazwa: Tokyo Night
-Identyfikator: enkia.tokyo-night
-Opis: A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
-Wersja: 0.9.4
-Wydawca: enkia
-Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
+ID: enkia.tokyo-night
+Description: A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
+Version: 0.9.4
+Publisher: enkia
+Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 
