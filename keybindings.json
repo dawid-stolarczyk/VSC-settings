@@ -1,0 +1,13 @@
+// Umieść swoje powiązania klawiszy w tym pliku, aby zastąpić ustawienia domyślneauto[]
+[
+	{
+		"key": "ctrl+shift+numpad_divide",
+		"command": "editor.action.addCommentLine",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+k ctrl+c",
+		"command": "-editor.action.addCommentLine",
+		"when": "editorTextFocus && !editorReadonly"
+	}
+]
