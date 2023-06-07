@@ -85,3 +85,11 @@ Version: 0.9.4
 Publisher: enkia
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 
+Nazwa: CSS Peek
+Identyfikator: pranaygp.vscode-css-peek
+Opis: Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+Wersja: 4.2.0
+Wydawca: Pranay Prakash
+Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
+
