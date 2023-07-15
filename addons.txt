@@ -85,11 +85,16 @@ Version: 0.9.4
 Publisher: enkia
 Link to the portal VS Marketplace: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 
-Nazwa: CSS Peek
-Identyfikator: pranaygp.vscode-css-peek
-Opis: Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
-Wersja: 4.2.0
-Wydawca: Pranay Prakash
+Name: CSS Peek
+ID: pranaygp.vscode-css-peek
+Description: Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+Version: 4.2.0
+Publisher: Pranay Prakash
 Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 
-
+Name: Extension Pack for Java
+ID: vscjava.vscode-java-pack
+Description: Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more
+Version: 0.25.12
+Publisher: Microsoft
+Link do portalu VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
